@@ -13,7 +13,9 @@ CatalogContent:
   - 'learn/bash-scripting'
 ---
 
-**Syntax Fundamentals**
+To learn about Bash **Syntax Fundamentals**, we first need to know about Bash. Bash is short for "Bourne-again shell" and is a command interpreter and programming language developed for UNIX-like OS. Bash scripts are files containing a series of commands. Bash scripting has various uses, e.g. file manipulation, system administration, and task automation.
+
+Using a command programming language requires proper syntax; therefore, this document will introduce you to some of the basics.
 
 ## Syntax
 
